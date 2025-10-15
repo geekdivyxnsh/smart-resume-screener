@@ -7,6 +7,9 @@ It uses Google’s Generative AI (Gemini API) to simulate an Application Trackin
 ✅ ATS Compatibility Score
 ✅ Profile Summary & Improvement Suggestions
 
+Live Demo Link: https://smart-resume-screener-ns26ugqrkp6y26pvgvddtc.streamlit.app/
+
+
 About the App
 
 Smart ATS helps candidates understand how their resumes perform against job postings by leveraging AI-based resume parsing and scoring.
